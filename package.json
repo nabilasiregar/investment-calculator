@@ -1,0 +1,16 @@
+{
+  "name": "investment-calculator",
+  "version": "1.0.0",
+  "description": "aku suka cuan",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node calculator.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Nabila Siregar",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.2.2"
+  }
+}
